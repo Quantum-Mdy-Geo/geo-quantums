@@ -1,4 +1,4 @@
-from flask import Flask , render_template, request
+from flask import Flask , render_template, r
 import os 
 from flask_sqlalchemy import SQLAlchemy
 
