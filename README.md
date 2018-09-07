@@ -37,3 +37,7 @@ Python language is very easy to learn. Python features a dynammic type system an
 Material Design Lite makes it easy to add a material design look and feel to ourwebsites. The "Lite" part of MDL comes from several key design goals:MDL has few dependencies, making it easy to install and use.
 MDL optimises for websites heavy on content , such as marketing pages, text articles , and blogs.
 It includes a rich set of components , including material design buttons , text-field, tooltips, spinners, and many more.
+**h**##What is materialized css?
+Materialized Css is a UI component library with css.java script and HTML.
+It is also known as Material Design.
+It is used for construct attractive, consistent and functional web pages and web app while adhering to modern web design principles such as browser portability , devices independances and graceful degration.
