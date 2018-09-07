@@ -2,7 +2,7 @@ from flask import Flask , render_template, request
 import os 
 from flask_sqlalchemy import SQLAlchemy
 
-app = flask(__name__)
+app = Flask(__name__)
 project_dir = os.path.dirname(os.path.abspath(__file__))
 database_file = "sqlite:///{}".format(os.path.join(project_dir, "whoiswho.db"))
 
