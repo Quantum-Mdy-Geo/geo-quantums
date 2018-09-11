@@ -1,43 +1,98 @@
-**h**##Geo-Quantums-Mandalay
-Director_ U Ravvi Chhabra(GMIT Co.,Ltd)
-Supervisor_Daw Zar Zar Hnin
-**h**##Team Members
 
-Name                              Roll No.
-Ma Khin Phyo Thin                 5cs-87
-Ma Hmway Hmway Kyaing5cs          5cs-106
-Ma Sein Nu Htwe                   5cs-126
-Ma Aye Su Mon                     5cs-144
-Ma Aye Ei Phyu                    5cs-230
-**h**##Role of Team Members
 
-Ma Aye Su Mon is Team Lead Developer and DevOps.
-Ma Sein Nu Htwe is UI/UX Lead.
-Ma Aye Ei Phyu is UI/UX DEvs.
-Ma Khin Phyo Thin is Dev1.
-Ma HmwayHmway Kyaing is Test and Documentation.
 
-**h**##Words From Heart
-We truly respect and thanks to U Kyaw Swa Soe(Rector) for providing us an apportunity to do the project work in Computer University and giving us all supporting and guidancing which mode us complete the project duty.
-We heartily thank to Dr.San  San Tint(Pro-Rector), for her guidance and suggesstions during this internship.
-Dr.Aye Aye Chaw(Professor, Head of Facultary of Computer Science) and Dr.Mya Thida Kyaw (Facultary of Information System Department) for their kind permission to send us internshp program.
-Then, We would like to express any sspecial thanks to Daw Zar Zar Hnin(our supervisor)for herr helpful recommendation and suggesstion.
-Then alsom  thanks to U Ravvi Chhabra(CEO of GMIT co.,Ltd), for his trust to give such a heavy responsibility project.
 
-**h**##Activities
-**Project Type**                **Task One**                                   **Project Details**
-Pyton Flask App                   Personal Page With Flask On heroku            Who is Who in Myanmar
+                                                    A PROJECT REPORT ON
+                                                   “Who Is Who In Myanmar”
+                                                            FOR
+                                                       GMIT(Co., Ltd)
+                                                     SUBMITTED IN PARTIAL
+                                                   FULFILLMENT OF INTERNSHIP
+                                                          PROJECT
+                                                    UNDER THE GUIDANCE OF
+                                                           Director
+                                                        U Ravi Chhabra
+                                                        Supervisor Name
+                                                       Daw Zar Zar Hnin
+                                                          SUMITTED BY
+                                                         Ma Aye Su Mon
+                                                         Ma Sein Nu Htwe
+                                                         Ma Aye Ei Phyu
+                                                         Ma Khin Phyo Thin
+                                                         Ma Hmway Hmway Kyaing
+                                               University of Computer Studies (Mandalay)
+				
+                                                         September 2018
 
-**##**What is Python?
-Python is a high-level programming languages.Python progress and modules are written as text files with traditionally a ".py"
-EachPython module has its discrete namespace.
-Namespace within a Python module is a global one.
-Python language is very easy to learn. Python features a dynammic type system and automatic memory management.
-**h**##What is Material Design Lite(mdl)?
-Material Design Lite makes it easy to add a material design look and feel to ourwebsites. The "Lite" part of MDL comes from several key design goals:MDL has few dependencies, making it easy to install and use.
-MDL optimises for websites heavy on content , such as marketing pages, text articles , and blogs.
-It includes a rich set of components , including material design buttons , text-field, tooltips, spinners, and many more.
-**h**##What is materialized css?
-Materialized Css is a UI component library with css.java script and HTML.
-It is also known as Material Design.
-It is used for construct attractive, consistent and functional web pages and web app while adhering to modern web design principles such as browser portability , devices independances and graceful degration.
+
+
+
+
+
+                                                           CONTENTS
+                                                           PAGE
+                                                           Abstract
+                                                           Acknowledgement	
+                                                           Project Detail
+	
+                                                           CHAPTER 1	INTRODUCTION
+                                                           1.1        Introduction
+                                                           1.2        Background
+                                                           1.3        Objectives
+                                                           CHAPTER 2	METHODOLOGY
+                                                           2.1       Requirement Analysis
+                                                           2.1.1 About Python
+	                                                   2.1.2 DB Browser for SQLite
+                                                           2.2	Use of Software Applications
+                                                           2.2.1 GitHub
+                                                           2.2.2 Git Bash
+                                                              i. Git	
+	                                                      ii. Bash
+                                                           2.2.3   PyCharm
+                                                           2.2.4   Postman
+                                                           2.2.5   Heroku
+
+                                                           2.3         Database
+	                                                   2.3.1 Database Management System
+                   	                                   2.3.2 Material CSS
+                                                           2.3.3 Material Design Lite
+	                                                   2.4	Project Plan
+                                                           CHAPTER 3	List of Figure
+                                                           Table 3.1 Who is Who is Myanmar
+                                                           Figure 3.2 Famous Myanmar People(Home Page)
+                                                           Figure 3.3 Famous Myanmar People(Political)
+                                                           Figure3.4 Famous Political Leader
+                                                           Figure3.5 Famous Business Leader
+                                                           Figure3.6 Famous Actor
+                                                           Figure3.7 Famous Author
+                                                           Figure3.8 Famous Designer
+                                                           Figure3.9 Lost Footsteps Design Sample
+                                                           Figure3.9.1 Lost Footsteps Design Sample
+                                                           Figure3.10 Online Shop Design Sample
+                                                           Figure3.10.1 Online Shop Design Sample
+                                                           Figure3.11Database Coding
+                                                           Figure3.11.1 Database Coding
+                                                           Figure3.11.2 Database Coding
+                                                           Figure3.11.3 Database Coding
+                                                           Figure3.11.4 Database Coding
+
+
+                                                            CHAPTER 4	EVALUATIONS AND CONCLUSION
+                                                            4.1		Conclusion
+                                                            4.2	        Advantages of the Project
+                                                            4.3	        Limitations and Future Work
+                                                            4.4         References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
